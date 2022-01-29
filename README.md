@@ -27,10 +27,9 @@ Here are some ideas to get you started:
 <br>
 
 ### A Student, Developer & Explorer
-- 🙋‍♂️ A [Developer Student Clubs][dsc] Core Team Member at my campus [(PUCIT Lahore)][dscpucit] by Google Developers
 - 💻 Learning NodeJS
 - 🤔 Exploring AI and Data Science
-- ⚡ Love travelling and playing snooker
+- ⚡ Love travelling and Playing snooker
 
 
 ### Languages & Tools
@@ -39,7 +38,7 @@ Here are some ideas to get you started:
 <code><img width=30px height=30px src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
 <br>
 
@@ -56,7 +55,5 @@ Here are some ideas to get you started:
 An avid learner from <b>Pakistan<b> 💚
 
 
-[twitter]: https://twitter.com/Bilal_Zafarr
-[linkedin]: https://www.linkedin.com/in/bilal-zafarr/
-[dscpucit]: https://dsc.community.dev/punjab-university-college-of-information-technology/
-[dsc]: https://developers.google.com/community/dsc
+[twitter]: https://twitter.com/TalhaEj14242617
+[linkedin]: https://www.linkedin.com/in/talha-ejaz-53084b186/
