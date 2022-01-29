@@ -1,6 +1,4 @@
 ### Hi there, I'm Talha 👋
-<hr>
-                              Let's Connect
 <!--
 **talhaejaz539/talhaejaz539** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
