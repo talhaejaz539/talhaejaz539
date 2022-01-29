@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Bilal's github stats](https://github-readme-stats.vercel.app/api?username=bilal-zafarr&theme=gotham)](https://github.com/rmahmadkhan/github-readme-stats)
-![Bilal's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-zafarr&theme=gotham&hide_langs_below=1&layout=compact)
+[![Talha's github stats](https://github-readme-stats.vercel.app/api?username=talhaejaz539&theme=gotham)](https://github.com/talhaejaz539/github-readme-stats)
+![Talha's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=talhaejaz539&theme=gotham&hide_langs_below=1&layout=compact)
 
 </details>
 <br>
