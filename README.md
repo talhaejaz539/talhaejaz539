@@ -1,4 +1,3 @@
-### Hi there, I'm Talha 👋
 <!--
 **talhaejaz539/talhaejaz539** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,31 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!--
-**bilal-zafarr/bilal-zafarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Hi there, I'm  Bilal 👋
+### Hi there, I'm Talha 👋
 
 <div align="center">
 <p align="center">Let's connect!</p>
-<a href="https://twitter.com/Bilal_Zafarr">
+<a href="https://twitter.com/TalhaEj14242617">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/bilal-zafarr/">
+<a href="https://www.linkedin.com/in/talha-ejaz-53084b186/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </div>
@@ -45,9 +28,9 @@ Here are some ideas to get you started:
 
 ### A Student, Developer & Explorer
 - 🙋‍♂️ A [Developer Student Clubs][dsc] Core Team Member at my campus [(PUCIT Lahore)][dscpucit] by Google Developers
-- 💻 Working as Web Developer
+- 💻 Learning NodeJS
 - 🤔 Exploring AI and Data Science
-- ⚡ Love travelling and reading
+- ⚡ Love travelling and playing snooker
 
 
 ### Languages & Tools
