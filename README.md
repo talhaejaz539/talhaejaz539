@@ -23,10 +23,20 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/talha-ejaz-53084b186/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://www.instagram.com/iamtalhaejaz/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/people/Talha-Ejaz/100006877411880/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/15742910/talha-ejaz?tab=profile">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
 </div>
 <br>
 
 ### A Student, Developer & Explorer
+- 🙋‍♂️ A computer science student at [PUCIT - University of the Punjab][pucit], Lahore, Pakistan
 - 💻 Learning NodeJS
 - 🤔 Exploring AI and Data Science
 - ⚡ Love travelling and Playing snooker
@@ -57,3 +67,6 @@ An avid learner from <b>Pakistan<b> 💚
 
 [twitter]: https://twitter.com/TalhaEj14242617
 [linkedin]: https://www.linkedin.com/in/talha-ejaz-53084b186/
+[instagram]: https://www.instagram.com/iamtalhaejaz/
+[facebook]: https://www.facebook.com/people/Talha-Ejaz/100006877411880/
+[pucit]: https://pucit.edu.pk/
