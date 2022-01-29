@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there, I'm Talha 👋
-
+<hr>
 <div align="center">
 <p align="center">Let's connect!</p>
 <a href="https://twitter.com/TalhaEj14242617">
