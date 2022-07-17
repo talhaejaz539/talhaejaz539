@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### A Student, Developer & Explorer
 - 🙋‍♂️ A computer science student at [PUCIT - University of the Punjab][pucit], Lahore, Pakistan
-- 💻 Learning NodeJS
+- 💻 Learning NodeJS & Django
 - 🤔 Exploring AI and Data Science
 - ⚡ Love travelling and Playing snooker
 
