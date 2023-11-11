@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 <br>
 
 ### A Student, Developer & Explorer
-- 🙋‍♂️ A computer science student at [PUCIT - University of the Punjab][pucit], Lahore, Pakistan
-- 💻 Learning NodeJS & Django
+- 🙋‍♂️ A computer science graduate from [PUCIT - University of the Punjab][pucit], Lahore, Pakistan
+- 💻 Learning Flask, NodeJS & Django
 - 🤔 Exploring AI and Data Science
-- ⚡ Love travelling and Playing snooker
+- ⚡ Love traveling and Playing snooker
 
 
 ### Languages & Tools
