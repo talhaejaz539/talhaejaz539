@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-### A Student, Developer & Explorer
+### A Graduate, Developer & Explorer
 - 🙋‍♂️ A computer science graduate from [PUCIT - University of the Punjab][pucit], Lahore, Pakistan
 - 💻 Learning Flask, NodeJS & Django
 - 🤔 Exploring AI and Data Science
