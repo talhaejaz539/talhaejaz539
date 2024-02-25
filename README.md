@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### A Graduate, Developer & Explorer
 - 🙋‍♂️ A computer science graduate from [PUCIT - University of the Punjab][pucit], Lahore, Pakistan
-- 💻 Learning SptingBoot & NodeJS
+- 💻 Learning SpringBoot & NodeJS
 - 🤔 Exploring AI and Data Science
 - ⚡ Love traveling and Playing snooker
 
