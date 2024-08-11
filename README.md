@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### A Graduate, Developer & Explorer
 - 🙋‍♂️ A computer science graduate from [PUCIT - University of the Punjab][pucit], Lahore, Pakistan
-- 💻 Learning & Wroking on SpringBoot-Java
+- 💻 Learning & Wroking on SpringBoot - Java
 - 🤔 Exploring AI and Data Science
 - ⚡ Love traveling and Playing snooker
 
